@@ -1,0 +1,41 @@
+Sequence,Centipawn Difference,Is Legal,Win Probability Shift,Best Score,Move Quality
+e4 c5 Nf3,-60.0,True,0.08613015110422928,-32.0,Good
+e4 c5 Nf3 d6,,False,,,
+e4 e5 Nf3 Nc6,,False,,,
+e4 e5 Nf3 Nc6 Bc4,-56.0,True,0.08041380918870455,-30.0,Good
+e4 c5,,False,,,
+e4 e6,,False,,,
+e4,-53.0,True,0.07612415526884792,-25.0,Good
+e4 d6 d4,-112.0,True,0.15971698819861108,-64.0,Good
+d4 d5,,False,,,
+d4 Nf6 c4,-73.0,True,0.10466529697659499,-39.0,Good
+d4 Nf6 c4 e6 Nc3,-54.0,True,0.07754596696744903,-23.0,Good
+d4 Nf6 c4 g6 Nc3,-71.0,True,0.10162281528677308,-20.0,Good
+d4 d5,,False,,,
+d4 d5 c4,-86.0,True,0.12299132542775065,-31.0,Good
+c4,-31.0,True,0.04457849743886921,-12.0,Good
+e4 d5,92.0,True,-0.13142060145229317,32.0,Good
+e4 e5 Nc3,-45.0,True,0.06466329017298583,-26.0,Good
+d4 f5,,False,,,
+e4 Nf6,,False,,,
+e4 g6,,False,,,
+d4 Nf6 c4 c5,,False,,,
+d4 d5 e3,-34.0,True,0.04888728592808511,-20.0,Good
+f4,-50.0,True,0.07149193529314113,-1.0,Good
+Nf3,-64.0,True,0.09179557848912429,-24.0,Good
+d4 Nf6 c4 e6 g3,-75.0,True,0.10741948394083922,-27.0,Good
+e4 e5 f4,55.0,True,-0.07886809136057754,14.0,Good
+e4 e5 Nf3 Nc6 Nc3,-81.0,True,0.1156059448696557,-19.0,Good
+e4 e5 Nf3 Nf6,,False,,,
+e4 e5 Nf3 Nc6 Bc4,-42.0,True,0.06036736689093403,-19.0,Good
+e4 e5 Nf3 Nc6 Bc4 Bc5,,False,,,
+d4 Nf6 Bg5,-22.0,True,0.03160574515202064,-24.0,Good
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6,,False,,,
+e4 e5 Nf3 Nc6 Bb5,-64.0,True,0.09180688806195536,-39.0,Good
+e4 e5 Nf3 Nc6 d4,-131.0,True,0.18550153853943963,-42.0,Good
+e4 e5 Nf3 Nc6 Bb5 Nf6 O-O,-141.0,True,0.19309080842377296,-3.0,Good
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6,,False,,,
+e4 e5 d4 exd4,,False,,,
+e4 e5 Nf3 Nc6 d4,-115.0,True,0.1625287503487733,-24.0,Good
+e4 e5 Nf3 Nc6 d4 exd4,63.0,True,-0.09037490584368457,24.0,Good
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4,-61.0,True,0.08753947425606284,-25.0,Good
