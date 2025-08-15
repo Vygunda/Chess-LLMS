@@ -1,0 +1,36 @@
+Extraction commands and info:
+
+Downloaded the gzip from https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/
+Extracted into a folder
+
+pv /Users/vyshnavigunda/Desktop/db/DATABASE4U.pgn | ./pgn-extract --nomovenumbers --nocomments --novars --notags --nonags -s > extracted_moves.pgn 2> errors.log\
+
+
+cat extracted_moves.pgn | pv | tr '\n' ' ' | sed 's/ 1-0/ 1-0\n/g' | sed 's/ 0-1/ 0-1\n/g' | sed 's/ 1\/2-1\/2/ 1\/2-1\/2\n/g' | sed 's/ \+/ /g' | sed 's/^ *//g' | sed 's/ *$//g' > formatted_extracted_moves.pgn\n
+
+
+
+pv -pipe viewer to monitor progress
+--nomovenumbers: Removes move numbers from the output.
+--nocomments: Removes comments from the PGN file.
+--novars: Removes variations (alternative move lines) from the output.
+--notags: Removes PGN header tags (like player names, dates, etc.) from the output.
+--nonags: Removes NAGs (Numeric Annotation Glyphs) are numeric symbols used to annotate and evaluate chess moves. They provide information about the quality of the moves, strategy etc (example $1,$2)
+-s: Runs in silent mode, so the process won’t output each game as it’s being processed (reduces terminal output).
+
+2> errors.log:Redirects any errors that occur during the extraction process to an errors.log file instead of printing them to the terminal.
+
+
+This cat command takes the PGN data from extracted_moves.pgn converts it into a single line, adds line breaks after game results (1-0, 0-1, 1/2-1/2), cleans up extra spaces.
+
+
+**Cross-checked the errors like these with lichess editor** :
+
+I entered the following moves and checked the output in the Lichess editor. The Lichess editor showed a result of 0-1, but the actual game result is 1-0, confirming it as a valid error raised by the parser.
+
+Error : File /Users/vyshnavigunda/Desktop/db/DATABASE4U.pgn: Line number: 8988376 character 38
+Warning: Result of 1-0 is inconsistent with checkmate by black in
+Sibarevic, Milenko - Marangunic, Srdjan YUG Team-ch23 Pula 1971.??.?? 
+
+Checked it with lichess editor game and this error is valid(Import game • lichess.org)
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3 Be7 9. Qe2 h6 10. Bxf6 Bxf6 11. e5 dxe5 12. fxe5 Be7 13. O-O-O Nc6 14. h4 Qc7 15. Re1 Bd7 16. Rh3 b5 17. Qg4 g6 18. Rhe3 b4 19. Nd1 a5 20. Kb1 a4 21. Nd2 Na5 22. Bd3 h5 23. Qg3 b3 24. Rf1 bxa2+ 25. Kxa2 Bc6 26. Rxf7 Bd5+ 27. Kb1 a3 28. Bxg6 axb2 29. Rh7+ Kd7 30. Rxh8 Rxh8 31. Rc3 Qb6 32. Qd3 Ra8 33. Nxb2 Nc6 34. Ndc4 Qg1+ 35. Qd1 Qa7 36. Kc1 Bb4 37. Qxh5 Qg1+ 38. Nd1 Ra1+ 39. Kb2 Bxc3+ 40. Nxc3 Bxc4 41. Ne4 Qb1+ 42. Kc3 Qb4# 1-0
