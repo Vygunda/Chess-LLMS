@@ -6,7 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Configure Gemini API
-api_key = 'AIzaSyCgcpWcH4s4ZnjEYW8nin1TPQv0HBWHwJ4'
+api_key = ''
 genai.configure(api_key=api_key)
 
 # Path to Stockfish engine
