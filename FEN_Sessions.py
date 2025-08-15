@@ -5,7 +5,7 @@ import google.generativeai as genai
 import time
 
 # Gemini API docs
-api_key = 'AIzaSyCgcpWcH4s4ZnjEYW8nin1TPQv0HBWHwJ4'
+api_key = ''
 
 # Configure the Gemini API
 genai.configure(api_key=api_key)
