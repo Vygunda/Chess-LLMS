@@ -1,0 +1,2073 @@
+SessionID$PromptNo$P/R$PromptOrResponse
+1$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$1$R$...e5 
+
+1$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$2$R$Nc6 
+
+1$3$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$3$R$...Bc5 
+
+1$4$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Bc5, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$4$R$Nf6 
+
+1$5$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Bc5, O-O, Nf6, Re1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$5$R$d6 
+
+1$6$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Bc5, O-O, Nf6, Re1, d6, c3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$6$R$... d5 
+
+1$7$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Bc5, O-O, Nf6, Re1, d6, c3, d5, exd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$7$R$Nxd5 
+
+1$8$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Bc5, O-O, Nf6, Re1, d6, c3, d5, exd5, Nxd5, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$8$R$Nxc3 
+
+1$9$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Bc5, O-O, Nf6, Re1, d6, c3, d5, exd5, Nxd5, d4, Nxc3, bxc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$9$R$... Bd6 
+
+1$10$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Bc5, O-O, Nf6, Re1, d6, c3, d5, exd5, Nxd5, d4, Nxc3, bxc3, Bd6, Bg5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$10$R$... Qe7 
+
+1$11$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Bc5, O-O, Nf6, Re1, d6, c3, d5, exd5, Nxd5, d4, Nxc3, bxc3, Bd6, Bg5, Qe7, Bxe7, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$11$R$Nxe7 
+
+1$12$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Bc5, O-O, Nf6, Re1, d6, c3, d5, exd5, Nxd5, d4, Nxc3, bxc3, Bd6, Bg5, Qe7, Bxe7, Nxe7, Kh1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$12$R$Rxe7 
+
+2$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$1$R$...c5 
+
+2$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$2$R$Nc6 
+
+2$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$3$R$Nf6 
+
+2$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$4$R$a6 
+
+2$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$5$R$bxc6 
+
+2$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$6$R$... d6 
+
+2$7$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, d6, exf6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$7$R$... gxf6 
+
+2$8$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, d6, exf6, gxf6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$8$R$... Qb6 
+
+2$9$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, d6, exf6, gxf6, O-O, Qb6, d3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$9$R$... dxe5 
+
+3$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+3$1$R$...c5 
+
+3$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+3$2$R$Nc6 
+
+3$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+3$3$R$Nf6 
+
+3$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+3$4$R$a6 
+
+3$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+3$5$R$bxc6 
+
+3$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+3$6$R$... d6 
+
+3$7$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, d6, exf6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+3$7$R$... gxf6 
+
+3$8$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, d6, exf6, gxf6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+3$8$R$... Qb6 
+
+3$9$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, d6, exf6, gxf6, O-O, Qb6, d3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+3$9$R$...  Bd7 
+
+3$10$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, d6, exf6, gxf6, O-O, Qb6, d3, Bd7, Qe2, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+3$10$R$... Rab8 
+
+4$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+4$1$R$...e5 
+
+4$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+4$2$R$Nc6 
+
+4$3$P$Given the following moves: e4, e5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+4$3$R$Nf6 
+
+4$4$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+4$4$R$Nxe5 
+
+4$5$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, Nxe5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+4$5$R$... d6 
+
+4$6$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, Nxe5, Nxe5, d6, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+4$6$R$Be7 
+
+4$7$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, Nxe5, Nxe5, d6, Nf3, Be7, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+4$7$R$... O-O 
+
+4$8$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, Nxe5, Nxe5, d6, Nf3, Be7, Nc3, O-O, Bd3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+4$8$R$... Be6 
+
+4$9$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, Nxe5, Nxe5, d6, Nf3, Be7, Nc3, O-O, Bd3, Be6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+4$9$R$Nd7 
+
+4$10$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, Nxe5, Nxe5, d6, Nf3, Be7, Nc3, O-O, Bd3, Be6, O-O, Nd7, Nd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+4$10$R$Nc5 
+
+4$11$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, Nxe5, Nxe5, d6, Nf3, Be7, Nc3, O-O, Bd3, Be6, O-O, Nd7, Nd4, Nc5, Be2, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+4$11$R$Nxd3 
+
+5$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+5$1$R$...e5 
+
+5$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+5$2$R$Nc6 
+
+5$3$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+5$3$R$... Be7 
+
+5$4$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Be7, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+5$4$R$... Nf6 
+
+5$5$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Be7, d4, Nf6, dxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+5$5$R$Nxe5 
+
+5$6$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Be7, d4, Nf6, dxe5, Nxe5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+5$6$R$... d6 
+
+5$7$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Be7, d4, Nf6, dxe5, Nxe5, Nxe5, d6, Nxf7, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+5$7$R$Rxf7 
+
+6$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+6$1$R$...e5 
+
+6$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+6$2$R$Nc6 
+
+6$3$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+6$3$R$Nf6 
+
+6$4$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, Ng5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+6$4$R$d6 
+
+6$5$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, Ng5, d6, Nxf7, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+6$5$R$Kxf7 
+
+7$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+7$1$R$...c5 
+
+7$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+7$2$R$Nc6 
+
+7$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+7$3$R$... d6 
+
+7$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+7$4$R$... cxd5 
+
+8$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+8$1$R$...c5 
+
+8$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+8$2$R$Nc6 
+
+8$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+8$3$R$d6 
+
+8$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+8$4$R$... cxd5 
+
+9$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+9$1$R$...c5 
+
+9$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+9$2$R$Nc6 
+
+9$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+9$3$R$e6 
+
+9$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+9$4$R$... exd5 
+
+9$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, exd5, exd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+9$5$R$Be7 
+
+9$6$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, exd5, exd5, Be7, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+9$6$R$... Qxc6 
+
+10$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+10$1$R$...c5 
+
+10$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+10$2$R$Nc6 
+
+10$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+10$3$R$d6 
+
+10$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+10$4$R$... cxd4 
+
+10$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+10$5$R$Nf6 
+
+10$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, Nf6, Nd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+10$6$R$...Be7 
+
+11$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+11$1$R$...c5 
+
+11$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+11$2$R$e6 
+
+11$3$P$Given the following moves: e4, c5, Nf3, e6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+11$3$R$d6 
+
+11$4$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+11$4$R$Nc6 
+
+11$5$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nc6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+11$5$R$dxc5 
+
+11$6$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nc6, dxc5, dxc5, Qxd8+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+11$6$R$Kxd8 
+
+11$7$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nc6, dxc5, dxc5, Qxd8+, Kxd8, Bf4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+11$7$R$Kd7 
+
+11$8$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nc6, dxc5, dxc5, Qxd8+, Kxd8, Bf4, Kd7, O-O-O+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+11$8$R$Ke7 
+
+11$9$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nc6, dxc5, dxc5, Qxd8+, Kxd8, Bf4, Kd7, O-O-O+, Ke7, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+11$9$R$... Rd8 
+
+12$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+12$1$R$...c5 
+
+12$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+12$2$R$Nc6 
+
+12$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+12$3$R$d6 
+
+12$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+12$4$R$... e6 
+
+12$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, e6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+12$5$R$Be7 
+
+12$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, e6, dxc5, Be7, cxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+12$6$R$Bxd6 
+
+12$7$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, e6, dxc5, Be7, cxd6, Bxd6, Nb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+12$7$R$... a6 
+
+12$8$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, e6, dxc5, Be7, cxd6, Bxd6, Nb5, a6, Qxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+12$8$R$... Qxd6 
+
+12$9$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, e6, dxc5, Be7, cxd6, Bxd6, Nb5, a6, Qxd6, Qxd6, Nxd6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+12$9$R$Ke7 
+
+12$10$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, e6, dxc5, Be7, cxd6, Bxd6, Nb5, a6, Qxd6, Qxd6, Nxd6+, Ke7, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+12$10$R$Kd7 
+
+12$11$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, e6, dxc5, Be7, cxd6, Bxd6, Nb5, a6, Qxd6, Qxd6, Nxd6+, Ke7, e5, Kd7, Be3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+12$11$R$... Rc8 
+
+13$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+13$1$R$...c5 
+
+13$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+13$2$R$Nc6 
+
+13$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+13$3$R$e6 
+
+13$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+13$4$R$... exd5 
+
+13$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, exd5, exd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+13$5$R$Be7 
+
+13$6$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, exd5, exd5, Be7, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+13$6$R$... Qb6 
+
+13$7$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, exd5, exd5, Be7, dxc6, Qb6, Bd3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+13$7$R$... Qxc6 
+
+13$8$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, exd5, exd5, Be7, dxc6, Qb6, Bd3, Qxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+13$8$R$... Nf6 
+
+13$9$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, exd5, exd5, Be7, dxc6, Qb6, Bd3, Qxc6, O-O, Nf6, Re1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+13$9$R$... O-O 
+
+13$10$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, exd5, exd5, Be7, dxc6, Qb6, Bd3, Qxc6, O-O, Nf6, Re1, O-O, Rxe7, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+13$10$R$Rxe7 
+
+14$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+14$1$R$...c5 
+
+14$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+14$2$R$Nc6 
+
+14$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+14$3$R$d6 
+
+14$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+14$4$R$Nf6 
+
+14$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+14$5$R$... cxd4 
+
+15$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+15$1$R$...c5 
+
+15$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+15$2$R$Nc6 
+
+15$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+15$3$R$e6 
+
+15$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+15$4$R$d6 
+
+15$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, d6, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+15$5$R$bxc6 
+
+15$6$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, d6, dxc6, bxc6, Nbd2, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+15$6$R$... Qc7 
+
+15$7$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, d6, dxc6, bxc6, Nbd2, Qc7, Bd3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+15$7$R$... Be7 
+
+15$8$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, d6, dxc6, bxc6, Nbd2, Qc7, Bd3, Be7, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+15$8$R$... dxe5 
+
+15$9$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, d6, dxc6, bxc6, Nbd2, Qc7, Bd3, Be7, e5, dxe5, Qe2, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+15$9$R$... O-O 
+
+16$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+16$1$R$...c5 
+
+16$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+16$2$R$Nc6 
+
+16$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+16$3$R$d6 
+
+16$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+16$4$R$Nf6 
+
+16$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+16$5$R$... cxd4 
+
+17$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+17$1$R$...c5 
+
+17$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+17$2$R$Nc6 
+
+17$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+17$3$R$a6 
+
+17$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+17$4$R$bxc6 
+
+17$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+17$5$R$... d6 
+
+17$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, h3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+17$6$R$... e6 
+
+17$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, h3, e6, Re1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+17$7$R$Be7 
+
+17$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, h3, e6, Re1, Be7, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+17$8$R$... dxe5 
+
+17$9$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, h3, e6, Re1, Be7, e5, dxe5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+17$9$R$Qxe5 
+
+18$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+18$1$R$...c5 
+
+18$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+18$2$R$Nc6 
+
+18$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+18$3$R$d6 
+
+18$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+18$4$R$... cxd5 
+
+19$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+19$1$R$...c5 
+
+19$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+19$2$R$Nc6 
+
+19$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+19$3$R$d6 
+
+19$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+19$4$R$... cxd5 
+
+20$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+20$1$R$...c5 
+
+20$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+20$2$R$Nc6 
+
+20$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+20$3$R$a6 
+
+20$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+20$4$R$bxc6 
+
+20$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+20$5$R$d6 
+
+20$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+20$6$R$... Qc7 
+
+20$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+20$7$R$... d5 
+
+20$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, d5, exd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+20$8$R$... cxd5 
+
+20$9$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, d5, exd5, cxd5, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+20$9$R$... Nf6 
+
+20$10$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, d5, exd5, cxd5, dxc5, Nf6, b4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+20$10$R$...Qb6 
+
+20$11$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, d5, exd5, cxd5, dxc5, Nf6, b4, Qb6, cxb6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+20$11$R$Rxb6 
+
+21$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+21$1$R$...c5 
+
+21$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+21$2$R$Nc6 
+
+21$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+21$3$R$d6 
+
+21$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+21$4$R$Nf6 
+
+21$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+21$5$R$... e6 
+
+21$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+21$6$R$... Be7 
+
+21$7$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, Be7, cxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+21$7$R$Bxd6 
+
+21$8$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, Be7, cxd6, Bxd6, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+21$8$R$Bxe5 
+
+21$9$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, Be7, cxd6, Bxd6, e5, Bxe5, Bxc6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+21$9$R$Qxc6 
+
+22$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+22$1$R$...c5 
+
+22$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+22$2$R$Nc6 
+
+22$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+22$3$R$e6 
+
+22$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+22$4$R$... cxd4 
+
+23$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+23$1$R$...c5 
+
+23$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+23$2$R$Nc6 
+
+23$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+23$3$R$a6 
+
+23$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+23$4$R$bxc6 
+
+23$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+23$5$R$... d6 
+
+23$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, Re1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+23$6$R$... Qc7 
+
+23$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, Re1, Qc7, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+23$7$R$... dxe5 
+
+23$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, Re1, Qc7, e5, dxe5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+23$8$R$... Nd7 
+
+24$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+24$1$R$...c5 
+
+24$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+24$2$R$Nc6 
+
+24$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+24$3$R$... cxd4 
+
+24$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+24$4$R$... e6 
+
+24$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+24$5$R$Be7 
+
+24$6$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, Be7, Ndb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+24$6$R$... a6 
+
+24$7$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, Be7, Ndb5, a6, Nd6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+24$7$R$... Ke7 
+
+25$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+25$1$R$...c5 
+
+25$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+25$2$R$Nc6 
+
+25$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+25$3$R$d6 
+
+25$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+25$4$R$... cxd5 
+
+26$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+26$1$R$...c5 
+
+26$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+26$2$R$Nc6 
+
+26$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+26$3$R$e6 
+
+26$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+26$4$R$... cxd4 
+
+27$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$1$R$...c5 
+
+27$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$2$R$Nc6 
+
+27$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$3$R$a6 
+
+27$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$4$R$bxc6 
+
+27$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$5$R$... d6 
+
+27$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$6$R$Qb6 
+
+27$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qb6, Re1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$7$R$... d5 
+
+27$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qb6, Re1, d5, d3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$8$R$... e5 
+
+27$9$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qb6, Re1, d5, d3, e5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$9$R$dxe4 
+
+27$10$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qb6, Re1, d5, d3, e5, Nxe5, dxe4, Nd2, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$10$R$... f5 
+
+27$11$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qb6, Re1, d5, d3, e5, Nxe5, dxe4, Nd2, f5, dxe4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$11$R$... fxe4 
+
+27$12$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qb6, Re1, d5, d3, e5, Nxe5, dxe4, Nd2, f5, dxe4, fxe4, Nxe4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+27$12$R$... Qe6 
+
+28$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+28$1$R$...c5 
+
+28$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+28$2$R$Nc6 
+
+28$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+28$3$R$e6 
+
+28$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+28$4$R$... cxd5 
+
+29$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+29$1$R$...c5 
+
+29$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+29$2$R$Nc6 
+
+29$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+29$3$R$d6 
+
+29$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+29$4$R$... cxd5 
+
+30$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+30$1$R$...c5 
+
+30$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+30$2$R$Nc6 
+
+30$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+30$3$R$d6 
+
+30$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+30$4$R$Nf6 
+
+30$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+30$5$R$... cxd4 
+
+31$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+31$1$R$...c5 
+
+31$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+31$2$R$Nc6 
+
+31$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+31$3$R$d6 
+
+31$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+31$4$R$... Nf6 
+
+31$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+31$5$R$... e6 
+
+31$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bf4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+31$6$R$Be7 
+
+31$7$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bf4, Be7, cxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+31$7$R$... Bxd6 
+
+31$8$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bf4, Be7, cxd6, Bxd6, Qxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+31$8$R$... Qxd6 
+
+31$9$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bf4, Be7, cxd6, Bxd6, Qxd6, Qxd6, Bxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+31$9$R$... Rc8 
+
+32$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+32$1$R$...c5 
+
+32$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+32$2$R$Nc6 
+
+32$3$P$Given the following moves: e4, c5, Nf3, Nc6, c3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+32$3$R$d6 
+
+32$4$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+32$4$R$... cxd4 
+
+32$5$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, cxd4, cxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+32$5$R$Nf6 
+
+32$6$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, cxd4, cxd4, Nf6, Bd3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+32$6$R$... e6 
+
+32$7$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, cxd4, cxd4, Nf6, Bd3, e6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+32$7$R$Be7 
+
+32$8$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, cxd4, cxd4, Nf6, Bd3, e6, Nc3, Be7, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+32$8$R$... O-O 
+
+32$9$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, cxd4, cxd4, Nf6, Bd3, e6, Nc3, Be7, O-O, O-O, h3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+32$9$R$Qb6 
+
+32$10$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, cxd4, cxd4, Nf6, Bd3, e6, Nc3, Be7, O-O, O-O, h3, Qb6, Bb1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+32$10$R$... Rd8 
+
+32$11$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, cxd4, cxd4, Nf6, Bd3, e6, Nc3, Be7, O-O, O-O, h3, Qb6, Bb1, Rd8, a3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+32$11$R$Rc8 
+
+33$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+33$1$R$...e5 
+
+33$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+33$2$R$Nc6 
+
+33$3$P$Given the following moves: e4, e5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+33$3$R$Nf6 
+
+33$4$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+33$4$R$... d6 
+
+33$5$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, d6, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+33$5$R$... bxc6 
+
+33$6$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, d6, dxc6, bxc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+33$6$R$Be7 
+
+33$7$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, d6, dxc6, bxc6, Nc3, Be7, Be2, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+33$7$R$... O-O 
+
+33$8$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, d6, dxc6, bxc6, Nc3, Be7, Be2, O-O, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+33$8$R$Qb6 
+
+34$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+34$1$R$...e5 
+
+34$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+34$2$R$Nc6 
+
+34$3$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+34$3$R$Nf6 
+
+34$4$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, Ng5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+34$4$R$d6 
+
+34$5$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, Ng5, d6, Nxf7, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+34$5$R$...  Kxf7 
+
+35$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+35$1$R$...c5 
+
+35$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+35$2$R$Nc6 
+
+35$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+35$3$R$d6 
+
+35$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+35$4$R$... cxd5 
+
+36$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+36$1$R$...c5 
+
+36$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+36$2$R$Nc6 
+
+36$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+36$3$R$d6 
+
+36$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+36$4$R$... cxd4 
+
+36$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+36$5$R$... Nf6 
+
+36$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, Nf6, Bg5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+36$6$R$Be7 
+
+37$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+37$1$R$...c5 
+
+37$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+37$2$R$Nc6 
+
+37$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+37$3$R$a6 
+
+37$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+37$4$R$bxc6 
+
+37$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+37$5$R$... d6 
+
+37$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, Re1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+37$6$R$... d5 
+
+37$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, Re1, d5, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+37$7$R$... dxe4 
+
+37$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, Re1, d5, Nc3, dxe4, Nxe4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+37$8$R$... Qb6 
+
+37$9$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, Re1, d5, Nc3, dxe4, Nxe4, Qb6, Nd6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+37$9$R$Nxd6 
+
+38$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+38$1$R$...c5 
+
+38$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+38$2$R$Nc6 
+
+38$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+38$3$R$d6 
+
+38$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+38$4$R$... Nf6 
+
+38$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, Nf6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+38$5$R$... Be7 
+
+39$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+39$1$R$...c5 
+
+39$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+39$2$R$Nc6 
+
+39$3$P$Given the following moves: e4, c5, Nf3, Nc6, c3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+39$3$R$d6 
+
+39$4$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+39$4$R$Nf6 
+
+39$5$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, Nf6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+39$5$R$... e6 
+
+39$6$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, Nf6, d5, e6, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+39$6$R$bxc6 
+
+39$7$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, Nf6, d5, e6, dxc6, bxc6, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+39$7$R$... Nd7 
+
+39$8$P$Given the following moves: e4, c5, Nf3, Nc6, c3, d6, d4, Nf6, d5, e6, dxc6, bxc6, e5, Nd7, exd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+39$8$R$... cxd6 
+
+40$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+40$1$R$...c5 
+
+40$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+40$2$R$Nc6 
+
+40$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+40$3$R$d6 
+
+40$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+40$4$R$... e6 
+
+40$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, e6, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+40$5$R$Qxc6 
+
+41$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+41$1$R$...c5 
+
+41$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+41$2$R$Nc6 
+
+41$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+41$3$R$... cxd4 
+
+41$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+41$4$R$... e6 
+
+41$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+41$5$R$Be7 
+
+41$6$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, Be7, Ndb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+41$6$R$a6 
+
+41$7$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, Be7, Ndb5, a6, Nd6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+41$7$R$Kd7 
+
+42$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+42$1$R$...c5 
+
+42$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+42$2$R$Nc6 
+
+42$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+42$3$R$d6 
+
+42$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+42$4$R$... cxd5 
+
+43$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+43$1$R$...e5 
+
+43$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+43$2$R$Nc6 
+
+43$3$P$Given the following moves: e4, e5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+43$3$R$Nf6 
+
+43$4$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+43$4$R$...Be7 
+
+43$5$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+43$5$R$... bxc6 
+
+43$6$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, bxc6, Nbd2, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+43$6$R$... O-O 
+
+43$7$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, bxc6, Nbd2, O-O, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+43$7$R$... Bb7 
+
+43$8$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, bxc6, Nbd2, O-O, Nxe5, Bb7, Bd3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+43$8$R$... dxc6 
+
+44$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+44$1$R$...c5 
+
+44$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+44$2$R$Nc6 
+
+44$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+44$3$R$d6 
+
+44$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+44$4$R$... e6 
+
+44$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, e6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+44$5$R$a6 
+
+44$6$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, e6, Bb5, a6, Bxc6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+44$6$R$bxc6 
+
+44$7$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, e6, Bb5, a6, Bxc6+, bxc6, cxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+44$7$R$... Qxd6 
+
+44$8$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, e6, Bb5, a6, Bxc6+, bxc6, cxd6, Qxd6, Qxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+44$8$R$... c5 
+
+44$9$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, e6, Bb5, a6, Bxc6+, bxc6, cxd6, Qxd6, Qxd6, c5, Qc6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+44$9$R$Kd7 
+
+45$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+45$1$R$...c5 
+
+45$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+45$2$R$Nc6 
+
+45$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+45$3$R$d6 
+
+45$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+45$4$R$... cxd5 
+
+46$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+46$1$R$...c5 
+
+46$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+46$2$R$Nc6 
+
+46$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+46$3$R$d6 
+
+46$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+46$4$R$... Nf6 
+
+46$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, Nf6, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+46$5$R$... bxc6 
+
+46$6$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, Nf6, dxc6, bxc6, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+46$6$R$... Qb6 
+
+46$7$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, Nf6, dxc6, bxc6, e5, Qb6, exf6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+46$7$R$... gxf6 
+
+46$8$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, Nf6, dxc6, bxc6, e5, Qb6, exf6, gxf6, Be2, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+46$8$R$... Qxc6 
+
+47$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+47$1$R$...c5 
+
+47$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+47$2$R$Nc6 
+
+47$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+47$3$R$d6 
+
+47$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+47$4$R$... cxd4 
+
+47$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+47$5$R$Nf6 
+
+47$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, Nf6, Bg5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+47$6$R$Be7 
+
+48$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+48$1$R$...c5 
+
+48$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+48$2$R$Nc6 
+
+48$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+48$3$R$d6 
+
+48$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+48$4$R$... cxd4 
+
+48$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+48$5$R$Nf6 
+
+48$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, Nf6, Bg5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+48$6$R$Be7 
+
+49$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+49$1$R$...e5 
+
+49$2$P$Given the following moves: e4, e5, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+49$2$R$Nf6 
+
+49$3$P$Given the following moves: e4, e5, Nc3, Nf6, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+49$3$R$Bc5 
+
+49$4$P$Given the following moves: e4, e5, Nc3, Nf6, Nf3, Bc5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+49$4$R$d6 
+
+49$5$P$Given the following moves: e4, e5, Nc3, Nf6, Nf3, Bc5, Nxe5, d6, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+49$5$R$Be7 
+
+50$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+50$1$R$...e5 
+
+50$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+50$2$R$Nc6 
+
+50$3$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+50$3$R$Nf6 
+
+50$4$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+50$4$R$a6 
+
+50$5$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+50$5$R$dxc6 
+
+50$6$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, dxc6, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+50$6$R$... d6 
+
+51$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+51$1$R$...c5 
+
+51$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+51$2$R$Nc6 
+
+51$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+51$3$R$d6 
+
+51$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+51$4$R$Nf6 
+
+51$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+51$5$R$... cxd4 
+
+52$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+52$1$R$...e5 
+
+52$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+52$2$R$Nc6 
+
+52$3$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+52$3$R$Nf6 
+
+52$4$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, Ng5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+52$4$R$d6 
+
+52$5$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, Ng5, d6, Nxf7, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+52$5$R$Qxf7 
+
+53$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+53$1$R$...c5 
+
+53$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+53$2$R$Nc6 
+
+53$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+53$3$R$d6 
+
+53$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+53$4$R$Nf6 
+
+53$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+53$5$R$... cxd4 
+
+54$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+54$1$R$...c5 
+
+54$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+54$2$R$Nc6 
+
+54$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+54$3$R$a6 
+
+54$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+54$4$R$bxc6 
+
+54$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+54$5$R$d6 
+
+54$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+54$6$R$... Qc7 
+
+54$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+54$7$R$... d5 
+
+54$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, d5, exd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+54$8$R$... cxd5 
+
+54$9$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, d5, exd5, cxd5, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+54$9$R$...Qb6 
+
+54$10$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, d5, exd5, cxd5, dxc5, Qb6, cxb6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+54$10$R$Rxb6 
+
+55$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+55$1$R$...e5 
+
+55$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+55$2$R$Nc6 
+
+55$3$P$Given the following moves: e4, e5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+55$3$R$Nf6 
+
+55$4$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+55$4$R$Error: No response from Gemini
+56$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+56$1$R$...c5 
+
+56$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+56$2$R$Nc6 
+
+56$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+56$3$R$d6 
+
+56$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+56$4$R$... cxd5 
+
+57$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+57$1$R$...c5 
+
+57$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+57$2$R$e6 
+
+57$3$P$Given the following moves: e4, c5, Nf3, e6, c3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+57$3$R$Nc6 
+
+57$4$P$Given the following moves: e4, c5, Nf3, e6, c3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+57$4$R$d5 
+
+57$5$P$Given the following moves: e4, c5, Nf3, e6, c3, Nc6, d4, d5, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+57$5$R$... Nd4 
+
+58$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+58$1$R$...e5 
+
+58$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+58$2$R$Nc6 
+
+58$3$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+58$3$R$Nf6 
+
+58$4$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+58$4$R$...Be7 
+
+58$5$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, Be7, dxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+58$5$R$Nxe5 
+
+58$6$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, Be7, dxe5, Nxe5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+58$6$R$... d6 
+
+58$7$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, Be7, dxe5, Nxe5, Nxe5, d6, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+58$7$R$Be6 
+
+58$8$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, Be7, dxe5, Nxe5, Nxe5, d6, Nf3, Be6, Bd3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+58$8$R$O-O 
+
+58$9$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, Be7, dxe5, Nxe5, Nxe5, d6, Nf3, Be6, Bd3, O-O, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+58$9$R$Nd7 
+
+58$10$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, Be7, dxe5, Nxe5, Nxe5, d6, Nf3, Be6, Bd3, O-O, O-O, Nd7, Nd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+58$10$R$Nb6 
+
+58$11$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, Be7, dxe5, Nxe5, Nxe5, d6, Nf3, Be6, Bd3, O-O, O-O, Nd7, Nd4, Nb6, Rb1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+58$11$R$Nxd4 
+
+59$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+59$1$R$...c5 
+
+59$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+59$2$R$Nc6 
+
+59$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+59$3$R$d6 
+
+59$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+59$4$R$Nf6 
+
+59$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+59$5$R$... e6 
+
+59$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+59$6$R$a6 
+
+59$7$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, a6, Bxc6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+59$7$R$bxc6 
+
+59$8$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, a6, Bxc6+, bxc6, cxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+59$8$R$... Qxd6 
+
+59$9$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, a6, Bxc6+, bxc6, cxd6, Qxd6, Qxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+59$9$R$... Kxd6 
+
+60$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+60$1$R$...c5 
+
+60$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+60$2$R$Nc6 
+
+60$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+60$3$R$d6 
+
+60$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+60$4$R$... cxd5 
+
+61$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+61$1$R$...c5 
+
+61$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+61$2$R$Nc6 
+
+61$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+61$3$R$a6 
+
+61$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+61$4$R$bxc6 
+
+61$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+61$5$R$d6 
+
+61$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+61$6$R$... Qc7 
+
+61$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+61$7$R$... d5 
+
+61$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, d5, exd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+61$8$R$... cxd5 
+
+61$9$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, d5, exd5, cxd5, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+61$9$R$... Qxc5 
+
+61$10$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, d5, exd5, cxd5, dxc5, Qxc5, Be3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+61$10$R$...  Nge7 
+
+62$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+62$1$R$...c5 
+
+62$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+62$2$R$Nc6 
+
+62$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+62$3$R$d6 
+
+62$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+62$4$R$Nf6 
+
+62$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+62$5$R$... e6 
+
+62$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+62$6$R$a6 
+
+62$7$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, a6, Bxc6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+62$7$R$bxc6 
+
+62$8$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, a6, Bxc6+, bxc6, cxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+62$8$R$... Qxd6 
+
+62$9$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, e6, Bb5, a6, Bxc6+, bxc6, cxd6, Qxd6, Qxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+62$9$R$... Rxa1 
+
+63$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+63$1$R$...e5 
+
+63$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+63$2$R$Nc6 
+
+63$3$P$Given the following moves: e4, e5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+63$3$R$Nf6 
+
+63$4$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+63$4$R$...Be7 
+
+63$5$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+63$5$R$... bxc6 
+
+63$6$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, bxc6, Bd3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+63$6$R$... O-O 
+
+63$7$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, bxc6, Bd3, O-O, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+63$7$R$...Rb8 
+
+63$8$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, bxc6, Bd3, O-O, Nc3, Rb8, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+63$8$R$... Nxe5 
+
+64$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+64$1$R$...c5 
+
+64$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+64$2$R$Nc6 
+
+64$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+64$3$R$d6 
+
+64$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+64$4$R$... cxd4 
+
+64$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+64$5$R$... Nf6 
+
+64$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, Nf6, Bg5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+64$6$R$Be7 
+
+65$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+65$1$R$...c5 
+
+65$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+65$2$R$Nc6 
+
+65$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+65$3$R$Nf6 
+
+65$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+65$4$R$a6 
+
+65$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+65$5$R$bxc6 
+
+65$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+65$6$R$... d6 
+
+65$7$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, d6, exf6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+65$7$R$gxf6 
+
+65$8$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, d6, exf6, gxf6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+65$8$R$... Qb6 
+
+65$9$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, bxc6, e5, d6, exf6, gxf6, O-O, Qb6, d3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+65$9$R$... c5 
+
+66$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+66$1$R$...c5 
+
+66$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+66$2$R$Nc6 
+
+66$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+66$3$R$d6 
+
+66$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+66$4$R$... cxd5 
+
+67$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+67$1$R$...c5 
+
+67$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+67$2$R$Nc6 
+
+67$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+67$3$R$d6 
+
+67$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+67$4$R$Nf6 
+
+67$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+67$5$R$... cxd4 
+
+68$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+68$1$R$...e5 
+
+68$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+68$2$R$Nc6 
+
+68$3$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+68$3$R$Nf6 
+
+68$4$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, Ng5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+68$4$R$d6 
+
+68$5$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, Ng5, d6, Nxf7, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+68$5$R$Kxf7 
+
+69$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+69$1$R$...c5 
+
+69$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+69$2$R$e6 
+
+69$3$P$Given the following moves: e4, c5, Nf3, e6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+69$3$R$Nc6 
+
+69$4$P$Given the following moves: e4, c5, Nf3, e6, d4, Nc6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+69$4$R$... exd5 
+
+69$5$P$Given the following moves: e4, c5, Nf3, e6, d4, Nc6, d5, exd5, exd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+69$5$R$Error: No response from Gemini
+70$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+70$1$R$...c5 
+
+70$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+70$2$R$Nc6 
+
+70$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+70$3$R$d6 
+
+70$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+70$4$R$... cxd5 
+
+71$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+71$1$R$...c5 
+
+71$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+71$2$R$Nc6 
+
+71$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+71$3$R$a6 
+
+71$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+71$4$R$bxc6 
+
+71$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+71$5$R$d6 
+
+71$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+71$6$R$... dxe5 
+
+71$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, e5, dxe5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+71$7$R$... Qb6 
+
+71$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, e5, dxe5, Nxe5, Qb6, d3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+71$8$R$... Nd4 
+
+72$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+72$1$R$...e5 
+
+72$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+72$2$R$Nc6 
+
+72$3$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+72$3$R$Nf6 
+
+72$4$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+72$4$R$a6 
+
+72$5$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+72$5$R$dxc6 
+
+72$6$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, dxc6, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+72$6$R$... d6 
+
+73$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+73$1$R$...c5 
+
+73$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+73$2$R$Nc6 
+
+73$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+73$3$R$d6 
+
+73$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+73$4$R$... cxd5 
+
+74$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+74$1$R$...c5 
+
+74$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+74$2$R$e6 
+
+74$3$P$Given the following moves: e4, c5, Nf3, e6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+74$3$R$Nc6 
+
+74$4$P$Given the following moves: e4, c5, Nf3, e6, Nc3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+74$4$R$d5 
+
+74$5$P$Given the following moves: e4, c5, Nf3, e6, Nc3, Nc6, d4, d5, exd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+74$5$R$exd5 
+
+74$6$P$Given the following moves: e4, c5, Nf3, e6, Nc3, Nc6, d4, d5, exd5, exd5, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+74$6$R$a6 
+
+74$7$P$Given the following moves: e4, c5, Nf3, e6, Nc3, Nc6, d4, d5, exd5, exd5, Bb5, a6, Bxc6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+74$7$R$bxc6 
+
+74$8$P$Given the following moves: e4, c5, Nf3, e6, Nc3, Nc6, d4, d5, exd5, exd5, Bb5, a6, Bxc6+, bxc6, Na4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+74$8$R$... Qb6 
+
+74$9$P$Given the following moves: e4, c5, Nf3, e6, Nc3, Nc6, d4, d5, exd5, exd5, Bb5, a6, Bxc6+, bxc6, Na4, Qb6, Nxb6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+74$9$R$Ra7 
+
+74$10$P$Given the following moves: e4, c5, Nf3, e6, Nc3, Nc6, d4, d5, exd5, exd5, Bb5, a6, Bxc6+, bxc6, Na4, Qb6, Nxb6, Ra7, Nxc8, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+74$10$R$Rxa7 
+
+75$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$1$R$...c5 
+
+75$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$2$R$Nc6 
+
+75$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$3$R$a6 
+
+75$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$4$R$bxc6 
+
+75$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$5$R$d6 
+
+75$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$6$R$... dxe5 
+
+75$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, e5, dxe5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$7$R$... Qc7 
+
+75$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, e5, dxe5, Nxe5, Qc7, Re1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$8$R$...  Nf6 
+
+75$9$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, e5, dxe5, Nxe5, Qc7, Re1, Nf6, d3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$9$R$... Nd5 
+
+75$10$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, e5, dxe5, Nxe5, Qc7, Re1, Nf6, d3, Nd5, c4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$10$R$Nb6 
+
+75$11$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, e5, dxe5, Nxe5, Qc7, Re1, Nf6, d3, Nd5, c4, Nb6, Bf4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$11$R$... Qd7 
+
+75$12$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, e5, dxe5, Nxe5, Qc7, Re1, Nf6, d3, Nd5, c4, Nb6, Bf4, Qd7, Nxd7, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$12$R$Nxd7 
+
+75$13$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, e5, dxe5, Nxe5, Qc7, Re1, Nf6, d3, Nd5, c4, Nb6, Bf4, Qd7, Nxd7, Nxd7, Kh1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+75$13$R$... Nxc4 
+
+76$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+76$1$R$...e5 
+
+76$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+76$2$R$Nc6 
+
+76$3$P$Given the following moves: e4, e5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+76$3$R$Nf6 
+
+76$4$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+76$4$R$Nxe5 
+
+76$5$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, Nxe5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+76$5$R$... Qe7 
+
+76$6$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, Nxe5, Nxe5, Qe7, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+76$6$R$... Nd5 
+
+76$7$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, Nxe5, Nxe5, Qe7, Nf3, Nd5, Qxd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+76$7$R$... Nxf3 
+
+77$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+77$1$R$...c5 
+
+77$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+77$2$R$Nc6 
+
+77$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+77$3$R$d6 
+
+77$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+77$4$R$... cxd4 
+
+77$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+77$5$R$... Nf6 
+
+77$6$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, cxd4, Nxd4, Nf6, Be3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+77$6$R$Be7 
+
+78$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+78$1$R$...e5 
+
+78$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+78$2$R$Nc6 
+
+78$3$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+78$3$R$Nf6 
+
+78$4$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bc4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+78$4$R$Be7 
+
+78$5$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bc4, Be7, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+78$5$R$O-O 
+
+78$6$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bc4, Be7, d4, O-O, dxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+78$6$R$Nxe5 
+
+78$7$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bc4, Be7, d4, O-O, dxe5, Nxe5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+78$7$R$... d6 
+
+78$8$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bc4, Be7, d4, O-O, dxe5, Nxe5, Nxe5, d6, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+78$8$R$... Nd7 
+
+78$9$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bc4, Be7, d4, O-O, dxe5, Nxe5, Nxe5, d6, Nf3, Nd7, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+78$9$R$... c6 
+
+78$10$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bc4, Be7, d4, O-O, dxe5, Nxe5, Nxe5, d6, Nf3, Nd7, O-O, c6, Re1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+78$10$R$... Be6 
+
+79$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+79$1$R$...c5 
+
+79$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+79$2$R$Nc6 
+
+79$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+79$3$R$d6 
+
+79$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+79$4$R$... cxd5 
+
+80$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+80$1$R$...c5 
+
+80$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+80$2$R$Nc6 
+
+80$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+80$3$R$... e6 
+
+80$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, e6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+80$4$R$... cxd5 
+
+81$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+81$1$R$...c5 
+
+81$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+81$2$R$Nc6 
+
+81$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+81$3$R$d6 
+
+81$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+81$4$R$... cxd5 
+
+82$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+82$1$R$...e5 
+
+82$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+82$2$R$Nc6 
+
+82$3$P$Given the following moves: e4, e5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+82$3$R$Nf6 
+
+82$4$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+82$4$R$Be7 
+
+82$5$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+82$5$R$... bxc6 
+
+82$6$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, bxc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+82$6$R$... O-O 
+
+82$7$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, bxc6, Nc3, O-O, Bd3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+82$7$R$... Bb7 
+
+82$8$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, bxc6, Nc3, O-O, Bd3, Bb7, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+82$8$R$...  a6 
+
+82$9$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, Be7, dxc6, bxc6, Nc3, O-O, Bd3, Bb7, O-O, a6, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+82$9$R$... Nxe5 
+
+83$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+83$1$R$...e5 
+
+83$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+83$2$R$Nc6 
+
+83$3$P$Given the following moves: e4, e5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+83$3$R$Nf6 
+
+83$4$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, dxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+83$4$R$Error: No response from Gemini
+84$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+84$1$R$...e5 
+
+84$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+84$2$R$Nc6 
+
+84$3$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+84$3$R$Nf6 
+
+84$4$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+84$4$R$a6 
+
+84$5$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+84$5$R$dxc6 
+
+84$6$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, dxc6, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+84$6$R$... d6 
+
+85$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+85$1$R$...c5 
+
+85$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+85$2$R$Nc6 
+
+85$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+85$3$R$d6 
+
+85$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+85$4$R$... cxd5 
+
+86$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+86$1$R$...e5 
+
+86$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+86$2$R$Nc6 
+
+86$3$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+86$3$R$Nf6 
+
+86$4$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+86$4$R$...Be7 
+
+86$5$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, d4, Be7, dxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+86$5$R$Nxe5 
+
+86$6$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, d4, Be7, dxe5, Nxe5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+86$6$R$... d6 
+
+86$7$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, d4, Be7, dxe5, Nxe5, Nxe5, d6, Nxf7, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+86$7$R$Kd7 
+
+86$8$P$Given the following moves: e4, e5, Nf3, Nc6, Bc4, Nf6, d4, Be7, dxe5, Nxe5, Nxe5, d6, Nxf7, Kd7, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+86$8$R$Rxf7 
+
+87$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+87$1$R$...c5 
+
+87$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+87$2$R$Nc6 
+
+87$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+87$3$R$d6 
+
+87$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+87$4$R$... e6 
+
+87$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, e6, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+87$5$R$... bxc6 
+
+87$6$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, e6, dxc6, bxc6, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+87$6$R$Qb6 
+
+87$7$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, e6, dxc6, bxc6, e5, Qb6, exd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+87$7$R$... Qxd6 
+
+88$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+88$1$R$...c5 
+
+88$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+88$2$R$e6 
+
+88$3$P$Given the following moves: e4, c5, Nf3, e6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+88$3$R$d6 
+
+88$4$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+88$4$R$Nc6 
+
+88$5$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nc6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+88$5$R$dxc5 
+
+88$6$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nc6, dxc5, dxc5, Qxd8+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+88$6$R$Kxd8 
+
+88$7$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nc6, dxc5, dxc5, Qxd8+, Kxd8, Bf4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+88$7$R$Ke7 
+
+88$8$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nc6, dxc5, dxc5, Qxd8+, Kxd8, Bf4, Ke7, O-O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+88$8$R$Kd7 
+
+89$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+89$1$R$...c5 
+
+89$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+89$2$R$Nc6 
+
+89$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+89$3$R$a6 
+
+89$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+89$4$R$bxc6 
+
+89$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+89$5$R$d6 
+
+89$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, Nc3, d6, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+89$6$R$dxe5 
+
+89$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, Nc3, d6, e5, dxe5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+89$7$R$... Qc7 
+
+89$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, Nc3, d6, e5, dxe5, Nxe5, Qc7, Nc4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+89$8$R$...  Nxe5 
+
+90$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+90$1$R$...e5 
+
+90$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+90$2$R$Nc6 
+
+90$3$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+90$3$R$Nf6 
+
+90$4$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+90$4$R$... exd4 
+
+90$5$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, exd4, Nxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+90$5$R$... Be7 
+
+90$6$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, exd4, Nxd4, Be7, Bf4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+90$6$R$O-O 
+
+90$7$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, exd4, Nxd4, Be7, Bf4, O-O, e5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+90$7$R$... Nd5 
+
+90$8$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, exd4, Nxd4, Be7, Bf4, O-O, e5, Nd5, Nxd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+90$8$R$Bc5 
+
+90$9$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, exd4, Nxd4, Be7, Bf4, O-O, e5, Nd5, Nxd5, Bc5, Nb3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+90$9$R$... Qe7 
+
+90$10$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, exd4, Nxd4, Be7, Bf4, O-O, e5, Nd5, Nxd5, Bc5, Nb3, Qe7, Nxe7+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+90$10$R$Nxe7 
+
+90$11$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, exd4, Nxd4, Be7, Bf4, O-O, e5, Nd5, Nxd5, Bc5, Nb3, Qe7, Nxe7+, Nxe7, Nxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+90$11$R$... Rfe8 
+
+91$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+91$1$R$...c5 
+
+91$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+91$2$R$Nc6 
+
+91$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+91$3$R$... cxd4 
+
+91$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+91$4$R$e6 
+
+91$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+91$5$R$Be7 
+
+91$6$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, Be7, Bf4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+91$6$R$... d5 
+
+91$7$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, Be7, Bf4, d5, exd5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+91$7$R$... Nxd4 
+
+91$8$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, Be7, Bf4, d5, exd5, Nxd4, Qxd4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+91$8$R$... Nf6 
+
+91$9$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, Be7, Bf4, d5, exd5, Nxd4, Qxd4, Nf6, d6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+91$9$R$... O-O 
+
+91$10$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, Be7, Bf4, d5, exd5, Nxd4, Qxd4, Nf6, d6, O-O, O-O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+91$10$R$Qc7 
+
+91$11$P$Given the following moves: e4, c5, Nf3, Nc6, d4, cxd4, Nxd4, e6, Nc3, Be7, Bf4, d5, exd5, Nxd4, Qxd4, Nf6, d6, O-O, O-O-O, Qc7, dxc7, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+91$11$R$Rxc7 
+
+92$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+92$1$R$...c5 
+
+92$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+92$2$R$Nc6 
+
+92$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+92$3$R$a6 
+
+92$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+92$4$R$bxc6 
+
+92$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+92$5$R$d6 
+
+92$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+92$6$R$... Qc7 
+
+92$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qc7, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+92$7$R$Error: No response from Gemini
+93$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+93$1$R$...c5 
+
+93$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+93$2$R$Nc6 
+
+93$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+93$3$R$a6 
+
+93$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+93$4$R$bxc6 
+
+93$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+93$5$R$d6 
+
+93$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+93$6$R$... d5 
+
+93$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, d5, d3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+93$7$R$Qb6 
+
+93$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, d5, d3, Qb6, c4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+93$8$R$... dxc4 
+
+93$9$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, d5, d3, Qb6, c4, dxc4, Na3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+93$9$R$... Qxb2 
+
+93$10$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, d5, d3, Qb6, c4, dxc4, Na3, Qxb2, Bxb2, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+93$10$R$Rxb2 
+
+94$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+94$1$R$...c5 
+
+94$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+94$2$R$Nc6 
+
+94$3$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+94$3$R$a6 
+
+94$4$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+94$4$R$bxc6 
+
+94$5$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+94$5$R$d6 
+
+94$6$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+94$6$R$Qb6 
+
+94$7$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qb6, Re1, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+94$7$R$... d5 
+
+94$8$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qb6, Re1, d5, d3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+94$8$R$... dxe4 
+
+94$9$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qb6, Re1, d5, d3, dxe4, dxe4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+94$9$R$... e5 
+
+94$10$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qb6, Re1, d5, d3, dxe4, dxe4, e5, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+94$10$R$... Qxb2 
+
+94$11$P$Given the following moves: e4, c5, Nf3, Nc6, Bb5, a6, Bxc6, bxc6, O-O, d6, c3, Qb6, Re1, d5, d3, dxe4, dxe4, e5, Nxe5, Qxb2, Bxb2, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+94$11$R$Rxb2 
+
+95$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+95$1$R$...e5 
+
+95$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+95$2$R$Nc6 
+
+95$3$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+95$3$R$Nf6 
+
+95$4$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+95$4$R$... d6 
+
+95$5$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, d6, Be3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+95$5$R$Be7 
+
+95$6$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, d6, Be3, Be7, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+95$6$R$... O-O 
+
+95$7$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, d6, Be3, Be7, d5, O-O, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+95$7$R$... bxc6 
+
+95$8$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, d4, d6, Be3, Be7, d5, O-O, dxc6, bxc6, Bc4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+95$8$R$Qb6 
+
+96$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+96$1$R$...e5 
+
+96$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+96$2$R$Nc6 
+
+96$3$P$Given the following moves: e4, e5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+96$3$R$Nf6 
+
+96$4$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+96$4$R$... d6 
+
+96$5$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, d6, dxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+96$5$R$... bxc6 
+
+96$6$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, d6, dxc6, bxc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+96$6$R$... Qe7 
+
+96$7$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, d6, dxc6, bxc6, Nc3, Qe7, Be2, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+96$7$R$... Bd7 
+
+96$8$P$Given the following moves: e4, e5, Nf3, Nc6, d4, Nf6, d5, d6, dxc6, bxc6, Nc3, Qe7, Be2, Bd7, O-O, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+96$8$R$... O-O 
+
+97$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+97$1$R$...c5 
+
+97$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+97$2$R$Nc6 
+
+97$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+97$3$R$d6 
+
+97$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+97$4$R$... cxd5 
+
+98$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+98$1$R$...c5 
+
+98$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+98$2$R$Nc6 
+
+98$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+98$3$R$d6 
+
+98$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, d5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+98$4$R$... cxd5 
+
+99$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+99$1$R$...e5 
+
+99$2$P$Given the following moves: e4, e5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+99$2$R$Nc6 
+
+99$3$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+99$3$R$Nf6 
+
+99$4$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+99$4$R$a6 
+
+99$5$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+99$5$R$dxc6 
+
+99$6$P$Given the following moves: e4, e5, Nf3, Nc6, Nc3, Nf6, Bb5, a6, Bxc6, dxc6, Nxe5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+99$6$R$... d6 
+
+100$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+100$1$R$...c5 
+
+100$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+100$2$R$Nc6 
+
+100$3$P$Given the following moves: e4, c5, Nf3, Nc6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+100$3$R$d6 
+
+100$4$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+100$4$R$... e6 
+
+100$5$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, e6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+100$5$R$... Be7 
+
+100$6$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, e6, Nc3, Be7, Bb5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+100$6$R$a6 
+
+100$7$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, e6, Nc3, Be7, Bb5, a6, Bxc6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+100$7$R$bxc6 
+
+100$8$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, e6, Nc3, Be7, Bb5, a6, Bxc6+, bxc6, cxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+100$8$R$... Qxd6 
+
+100$9$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, e6, Nc3, Be7, Bb5, a6, Bxc6+, bxc6, cxd6, Qxd6, Qxd6, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+100$9$R$... Bxd6 
+
+100$10$P$Given the following moves: e4, c5, Nf3, Nc6, d4, d6, dxc5, e6, Nc3, Be7, Bb5, a6, Bxc6+, bxc6, cxd6, Qxd6, Qxd6, Bxd6, Be3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+100$10$R$Rc8 
+

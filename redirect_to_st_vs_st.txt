@@ -1,0 +1,437 @@
+SessionID$PromptNo$P/R$PromptOrResponse
+1$0$Stockfish 2 Move$e4
+1$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$1$R$...c5 
+
+1$1$Stockfish 2 Move$Nf3
+1$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$2$R$Nc6 
+
+1$2$Stockfish 2 Move$Nc3
+1$3$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$3$R$d6 
+
+1$3$Stockfish 2 Move$d4
+1$4$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$4$R$Nf6 
+
+1$4$Stockfish 2 Move$dxc5
+1$5$P$Given the following moves: e4, c5, Nf3, Nc6, Nc3, d6, d4, Nf6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+1$5$R$... cxd4 
+
+1$6$Stockfish 1 Move$Qa5
+1$6$Stockfish 2 Move$Nd2
+1$6$Stockfish 1 Move$Qxc5
+1$6$Stockfish 2 Move$Nb3
+1$6$Stockfish 1 Move$Qb6
+1$6$Stockfish 2 Move$Be3
+1$6$Stockfish 1 Move$Qc7
+1$6$Stockfish 2 Move$Nd5
+1$6$Stockfish 1 Move$Qd8
+1$6$Stockfish 2 Move$Nxf6+
+1$6$Stockfish 1 Move$exf6
+1$6$Stockfish 2 Move$Qd2
+1$6$Stockfish 1 Move$Be7
+1$6$Stockfish 2 Move$O-O-O
+1$6$Stockfish 1 Move$O-O
+1$6$Stockfish 2 Move$Kb1
+1$6$Stockfish 1 Move$Re8
+1$6$Stockfish 2 Move$f3
+1$6$Stockfish 1 Move$f5
+1$6$Stockfish 2 Move$exf5
+1$6$Stockfish 1 Move$Bxf5
+1$6$Stockfish 2 Move$g4
+1$6$Stockfish 1 Move$Bd7
+1$6$Stockfish 2 Move$h4
+1$6$Stockfish 1 Move$Ne5
+1$6$Stockfish 2 Move$Qf2
+1$6$Stockfish 1 Move$b5
+1$6$Stockfish 2 Move$g5
+1$6$Stockfish 1 Move$a5
+1$6$Stockfish 2 Move$Bb6
+1$6$Stockfish 1 Move$Qb8
+1$6$Stockfish 2 Move$Bxa5
+1$6$Stockfish 1 Move$Bf5
+1$6$Stockfish 2 Move$Bc3
+1$6$Stockfish 1 Move$Rc8
+1$6$Stockfish 2 Move$Nd4
+1$6$Stockfish 1 Move$b4
+1$6$Stockfish 2 Move$Bxb4
+1$6$Stockfish 1 Move$Qa7
+1$6$Stockfish 2 Move$Nxf5
+1$6$Stockfish 1 Move$Qxa2+
+1$6$Stockfish 2 Move$Kc1
+1$6$Stockfish 1 Move$Qa1+
+1$6$Stockfish 2 Move$Kd2
+1$6$Stockfish 1 Move$Qxb2
+1$6$Stockfish 2 Move$Nxe7+
+1$6$Stockfish 1 Move$Kf8
+1$6$Stockfish 2 Move$Nxc8
+1$6$Stockfish 1 Move$Qxb4+
+1$6$Stockfish 2 Move$Ke2
+1$6$Stockfish 1 Move$Qc4+
+1$6$Stockfish 2 Move$Kd2
+1$6$Stockfish 1 Move$Qb4+
+1$6$Stockfish 2 Move$Ke2
+1$6$Stockfish 1 Move$Qc4+
+1$6$Stockfish 2 Move$Ke1
+1$6$Stockfish 1 Move$Qc3+
+1$6$Stockfish 2 Move$Rd2
+1$6$Stockfish 1 Move$Nxf3+
+1$6$Stockfish 2 Move$Ke2
+1$6$Stockfish 1 Move$Nxd2
+1$6$Stockfish 2 Move$Nxd6
+1$6$Stockfish 1 Move$Nf3
+1$6$Stockfish 2 Move$Qe3
+1$6$Stockfish 1 Move$Qxc2+
+1$6$Stockfish 2 Move$Kxf3
+1$6$Stockfish 1 Move$Qd1+
+1$6$Stockfish 2 Move$Kf2
+1$6$Stockfish 1 Move$Qxd6
+1$6$Stockfish 2 Move$Rh3
+1$6$Stockfish 1 Move$Ra4
+1$6$Stockfish 2 Move$Be2
+1$6$Stockfish 1 Move$g6
+1$6$Stockfish 2 Move$Bd3
+1$6$Stockfish 1 Move$Rf4+
+1$6$Stockfish 2 Move$Ke2
+1$6$Stockfish 1 Move$Rg4
+1$6$Stockfish 2 Move$Be4
+1$6$Stockfish 1 Move$Rf4
+1$6$Stockfish 2 Move$Bd3
+1$6$Stockfish 1 Move$Rg4
+1$6$Stockfish 2 Move$Kf3
+1$6$Stockfish 1 Move$Rd4
+1$6$Stockfish 2 Move$Be2
+1$6$Stockfish 1 Move$Ra4
+1$6$Stockfish 2 Move$Bd3
+1$6$Stockfish 1 Move$Qd5+
+1$6$Stockfish 2 Move$Kg3
+1$6$Stockfish 1 Move$Kg7
+1$6$Stockfish 2 Move$Bc2
+1$6$Stockfish 1 Move$Ra2
+1$6$Stockfish 2 Move$Rh2
+1$6$Stockfish 1 Move$Qd6+
+1$6$Stockfish 2 Move$Kg4
+1$6$Stockfish 1 Move$Ra3
+1$6$Stockfish 2 Move$Rd2
+1$6$Stockfish 1 Move$Rxe3
+1$6$Stockfish 2 Move$Rxd6
+1$6$Stockfish 1 Move$h5+
+1$6$Stockfish 2 Move$Kf4
+1$6$Stockfish 1 Move$Rh3
+1$6$Stockfish 2 Move$Ke5
+1$6$Stockfish 1 Move$Rxh4
+1$6$Stockfish 2 Move$Bxg6
+1$6$Stockfish 1 Move$fxg6
+1$6$Stockfish 2 Move$Rd7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rd8+
+1$6$Stockfish 1 Move$Kf7
+1$6$Stockfish 2 Move$Rd7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Kf6
+1$6$Stockfish 1 Move$Rb4
+1$6$Stockfish 2 Move$Rd8+
+1$6$Stockfish 1 Move$Kh7
+1$6$Stockfish 2 Move$Rd7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Kxg6
+1$6$Stockfish 1 Move$Rb6+
+1$6$Stockfish 2 Move$Kxh5
+1$6$Stockfish 1 Move$Rb8
+1$6$Stockfish 2 Move$Rc7
+1$6$Stockfish 1 Move$Rb1
+1$6$Stockfish 2 Move$Rd7
+1$6$Stockfish 1 Move$Ra1
+1$6$Stockfish 2 Move$Rd8+
+1$6$Stockfish 1 Move$Kg7
+1$6$Stockfish 2 Move$Rd7+
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Rd8+
+1$6$Stockfish 1 Move$Kg7
+1$6$Stockfish 2 Move$Rd7+
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Kh6
+1$6$Stockfish 1 Move$Ra6+
+1$6$Stockfish 2 Move$g6
+1$6$Stockfish 1 Move$Ra8
+1$6$Stockfish 2 Move$Rh7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rd7
+1$6$Stockfish 1 Move$Rb8
+1$6$Stockfish 2 Move$Rc7
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Rh7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rg7+
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Rh7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Re7
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Rd7
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rg7+
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Ra7
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rc7
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Rf7
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rd7
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Ra7
+1$6$Stockfish 1 Move$Re8
+1$6$Stockfish 2 Move$Rh7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rg7+
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Ra7
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rg7+
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Rh7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rb7
+1$6$Stockfish 1 Move$Rd8
+1$6$Stockfish 2 Move$Rg7+
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Re7
+1$6$Stockfish 1 Move$Rb8
+1$6$Stockfish 2 Move$Rc7
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Ra7
+1$6$Stockfish 1 Move$Rd8
+1$6$Stockfish 2 Move$Rg7+
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Rh7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Re7
+1$6$Stockfish 1 Move$Rc8
+1$6$Stockfish 2 Move$Rg7+
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Rh7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rg7+
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Rh7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Ra7
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Rd7
+1$6$Stockfish 1 Move$Re8
+1$6$Stockfish 2 Move$Ra7
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rb7
+1$6$Stockfish 1 Move$Rc8
+1$6$Stockfish 2 Move$Re7
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Rb7
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Re7
+1$6$Stockfish 1 Move$Kh8
+1$6$Stockfish 2 Move$Ra7
+1$6$Stockfish 1 Move$Rd8
+1$6$Stockfish 2 Move$Rh7+
+1$6$Stockfish 1 Move$Kg8
+1$6$Stockfish 2 Move$Rc7
+1$6$Stockfish 1 Move$Re8
+1$6$Stockfish 2 Move$Rc6
+1$6$Stockfish 1 Move$Rb8
+1$6$Stockfish 2 Move$Re6
+1$6$Stockfish 1 Move$Rc8
+1$6$Stockfish 2 Move$Rf6
+1$6$Stockfish 1 Move$Rc1
+1$6$Stockfish 2 Move$Rb6
+1$6$Stockfish 1 Move$Rh1+
+1$6$Stockfish 2 Move$Kg5
+1$6$Stockfish 1 Move$Rg1+
+1$6$Stockfish 2 Move$Kf4
+1$6$Stockfish 1 Move$Kg7
+1$6$Stockfish 2 Move$Kf5
+1$6$Stockfish 1 Move$Kh6
+1$6$Stockfish 2 Move$Rc6
+1$6$Stockfish 1 Move$Rg5+
+1$6$Stockfish 2 Move$Ke4
+1$6$Stockfish 1 Move$Rg4+
+1$6$Stockfish 2 Move$Kd3
+1$6$Stockfish 1 Move$Rc4
+1$6$Stockfish 2 Move$Kxc4
+1$6$Stockfish 1 Move$Kg5
+1$6$Stockfish 2 Move$g7
+1$6$Stockfish 1 Move$Kf4
+1$6$Stockfish 2 Move$Kd3
+1$6$Stockfish 1 Move$Kg5
+1$6$Stockfish 2 Move$g8=Q+
+1$6$Stockfish 1 Move$Kf4
+1$6$Stockfish 2 Move$Rf6+
+1$6$Stockfish 1 Move$Ke5
+1$6$Stockfish 2 Move$Qe6#
+2$0$Stockfish 2 Move$e4
+2$1$P$Given the following moves: e4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$1$R$...c5 
+
+2$1$Stockfish 2 Move$Nf3
+2$2$P$Given the following moves: e4, c5, Nf3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$2$R$e6 
+
+2$2$Stockfish 2 Move$Nc3
+2$3$P$Given the following moves: e4, c5, Nf3, e6, Nc3, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$3$R$d6 
+
+2$3$Stockfish 2 Move$d4
+2$4$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$4$R$... Nf6 
+
+2$4$Stockfish 2 Move$dxc5
+2$5$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nf6, dxc5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$5$R$...dxc5 
+
+2$5$Stockfish 2 Move$Qxd8+
+2$6$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nf6, dxc5, dxc5, Qxd8+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$6$R$Kxd8 
+
+2$6$Stockfish 2 Move$Ne5
+2$7$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nf6, dxc5, dxc5, Qxd8+, Kxd8, Ne5, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$7$R$Ke7 
+
+2$7$Stockfish 2 Move$Bf4
+2$8$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nf6, dxc5, dxc5, Qxd8+, Kxd8, Ne5, Ke7, Bf4, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$8$R$Nc6 
+
+2$8$Stockfish 2 Move$Nxc6+
+2$9$P$Given the following moves: e4, c5, Nf3, e6, Nc3, d6, d4, Nf6, dxc5, dxc5, Qxd8+, Kxd8, Ne5, Ke7, Bf4, Nc6, Nxc6+, what is the suggested best next move for black based on these previous moves, do not give any other thing give only black move
+2$9$R$Nxe5 
+
+2$10$Stockfish 1 Move$bxc6
+2$10$Stockfish 2 Move$h4
+2$10$Stockfish 1 Move$Ke8
+2$10$Stockfish 2 Move$h5
+2$10$Stockfish 1 Move$h6
+2$10$Stockfish 2 Move$Be2
+2$10$Stockfish 1 Move$a5
+2$10$Stockfish 2 Move$Na4
+2$10$Stockfish 1 Move$Ba6
+2$10$Stockfish 2 Move$c4
+2$10$Stockfish 1 Move$Nxe4
+2$10$Stockfish 2 Move$Bf3
+2$10$Stockfish 1 Move$f5
+2$10$Stockfish 2 Move$Be5
+2$10$Stockfish 1 Move$Rg8
+2$10$Stockfish 2 Move$Rd1
+2$10$Stockfish 1 Move$Be7
+2$10$Stockfish 2 Move$b3
+2$10$Stockfish 1 Move$Bf6
+2$10$Stockfish 2 Move$Bxe4
+2$10$Stockfish 1 Move$fxe4
+2$10$Stockfish 2 Move$Bd6
+2$10$Stockfish 1 Move$Kf7
+2$10$Stockfish 2 Move$Nxc5
+2$10$Stockfish 1 Move$Rgd8
+2$10$Stockfish 2 Move$Nxe4
+2$10$Stockfish 1 Move$a4
+2$10$Stockfish 2 Move$f3
+2$10$Stockfish 1 Move$Bc8
+2$10$Stockfish 2 Move$O-O
+2$10$Stockfish 1 Move$e5
+2$10$Stockfish 2 Move$g4
+2$10$Stockfish 1 Move$Be6
+2$10$Stockfish 2 Move$Kg2
+2$10$Stockfish 1 Move$axb3
+2$10$Stockfish 2 Move$axb3
+2$10$Stockfish 1 Move$Ra2+
+2$10$Stockfish 2 Move$Rf2
+2$10$Stockfish 1 Move$Ra7
+2$10$Stockfish 2 Move$Re2
+2$10$Stockfish 1 Move$Kg8
+2$10$Stockfish 2 Move$Rd3
+2$10$Stockfish 1 Move$Bf7
+2$10$Stockfish 2 Move$Red2
+2$10$Stockfish 1 Move$Be6
+2$10$Stockfish 2 Move$Kg3
+2$10$Stockfish 1 Move$Kf7
+2$10$Stockfish 2 Move$Re2
+2$10$Stockfish 1 Move$Be7
+2$10$Stockfish 2 Move$Kg2
+2$10$Stockfish 1 Move$Ra5
+2$10$Stockfish 2 Move$Rdd2
+2$10$Stockfish 1 Move$Rd7
+2$10$Stockfish 2 Move$Kf2
+2$10$Stockfish 1 Move$Ke8
+2$10$Stockfish 2 Move$b4
+2$10$Stockfish 1 Move$Ra3
+2$10$Stockfish 2 Move$b5
+2$10$Stockfish 1 Move$c5
+2$10$Stockfish 2 Move$Bxe7
+2$10$Stockfish 1 Move$Rxd2
+2$10$Stockfish 2 Move$Rxd2
+2$10$Stockfish 1 Move$Kxe7
+2$10$Stockfish 2 Move$Nxc5
+2$10$Stockfish 1 Move$e4
+2$10$Stockfish 2 Move$fxe4
+2$10$Stockfish 1 Move$Bxg4
+2$10$Stockfish 2 Move$b6
+2$10$Stockfish 1 Move$Bc8
+2$10$Stockfish 2 Move$Rd3
+2$10$Stockfish 1 Move$Ra1
+2$10$Stockfish 2 Move$Ke3
+2$10$Stockfish 1 Move$g5
+2$10$Stockfish 2 Move$b7
+2$10$Stockfish 1 Move$Bxb7
+2$10$Stockfish 2 Move$Rd7+
+2$10$Stockfish 1 Move$Ke8
+2$10$Stockfish 2 Move$Rxb7
+2$10$Stockfish 1 Move$g4
+2$10$Stockfish 2 Move$Ne6
+2$10$Stockfish 1 Move$g3
+2$10$Stockfish 2 Move$Rg7
+2$10$Stockfish 1 Move$g2
+2$10$Stockfish 2 Move$Rxg2
+2$10$Stockfish 1 Move$Ke7
+2$10$Stockfish 2 Move$Nf4
+2$10$Stockfish 1 Move$Kd6
+2$10$Stockfish 2 Move$Kd4
+2$10$Stockfish 1 Move$Rd1+
+2$10$Stockfish 2 Move$Nd3
+2$10$Stockfish 1 Move$Ra1
+2$10$Stockfish 2 Move$e5+
+2$10$Stockfish 1 Move$Kc7
+2$10$Stockfish 2 Move$Ke4
+2$10$Stockfish 1 Move$Ra5
+2$10$Stockfish 2 Move$c5
+2$10$Stockfish 1 Move$Kd8
+2$10$Stockfish 2 Move$Kf5
+2$10$Stockfish 1 Move$Kc7
+2$10$Stockfish 2 Move$e6
+2$10$Stockfish 1 Move$Kd8
+2$10$Stockfish 2 Move$Kf6
+2$10$Stockfish 1 Move$Kc7
+2$10$Stockfish 2 Move$e7
+2$10$Stockfish 1 Move$Ra6+
+2$10$Stockfish 2 Move$Kf7
+2$10$Stockfish 1 Move$Ra8
+2$10$Stockfish 2 Move$Nf4
+2$10$Stockfish 1 Move$Kc6
+2$10$Stockfish 2 Move$Ne6
+2$10$Stockfish 1 Move$Kb5
+2$10$Stockfish 2 Move$Rd2
+2$10$Stockfish 1 Move$Rb8
+2$10$Stockfish 2 Move$Kf6
+2$10$Stockfish 1 Move$Ka6
+2$10$Stockfish 2 Move$c6
+2$10$Stockfish 1 Move$Rb1
+2$10$Stockfish 2 Move$e8=Q
+2$10$Stockfish 1 Move$Ka5
+2$10$Stockfish 2 Move$Qa8+
+2$10$Stockfish 1 Move$Kb4
+2$10$Stockfish 2 Move$Rd4+
+2$10$Stockfish 1 Move$Kb3
+2$10$Stockfish 2 Move$Qa4+
+2$10$Stockfish 1 Move$Kc3
+2$10$Stockfish 2 Move$Qc4+
+2$10$Stockfish 1 Move$Kb2
+2$10$Stockfish 2 Move$Rd2+
+2$10$Stockfish 1 Move$Ka1
+2$10$Stockfish 2 Move$Ra2#
