@@ -7,9 +7,9 @@ import time
 
 
 # Gemini API key setup
-#api_key = 'AIzaSyCgcpWcH4s4ZnjEYW8nin1TPQv0HBWHwJ4'
-api_key = 'AIzaSyCz_Wo0OX7QFLRwENw6fTkVxez4Hc_nni8'
-#api_key ='AIzaSyAhzBMvb_jxGXTV_apPURbnj4gBzKk2c7M'
+
+api_key = ''
+
 
 #gemini API docs
 genai.configure(api_key=api_key)
