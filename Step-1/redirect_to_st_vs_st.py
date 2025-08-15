@@ -5,7 +5,7 @@ import google.generativeai as genai
 import time
 
 # Gemini API key setup
-api_key = 'AIzaSyCgcpWcH4s4ZnjEYW8nin1TPQv0HBWHwJ4'
+api_key = ''
 genai.configure(api_key=api_key)
 
 SQUARE_SIZE = 100
