@@ -1,0 +1,126 @@
+Game 1 - Sequence: b4
+{'Game': 15, 'Session': 1, 'Gemini Move': 'e5', 'Rank': 5, 'Score Difference': -40}
+
+Game 2 - Sequence: g4
+{'Game': 2, 'Session': 1, 'Gemini Move': 'e5', 'Rank': 2, 'Score Difference': -3}
+
+Game 3 - Sequence: e4 e5 Nf3 Nc6 Be2
+{'Game': 3, 'Session': 1, 'Gemini Move': 'Bc5', 'Rank': None, 'Score Difference': None}
+
+Game 4 - Sequence: e4 e5 Nf3 d5
+{'Game': 4, 'Session': 1, 'Gemini Move': 'Nc6', 'Rank': None, 'Score Difference': None}
+
+Game 5 - Sequence: d4 d5 c4 e5
+{'Game': 5, 'Session': 1, 'Gemini Move': 'Nc6', 'Rank': None, 'Score Difference': None}
+
+Game 6 - Sequence: e4 e5 Nf3 f5
+{'Game': 6, 'Session': 1, 'Gemini Move': 'Nc6', 'Rank': None, 'Score Difference': None}
+
+Game 7 - Sequence: e4 c5 d4
+{'Game': 7, 'Session': 1, 'Gemini Move': 'cxd4', 'Rank': 1, 'Score Difference': 0}
+
+Game 8 - Sequence: d4 d5 e4
+{'Game': 8, 'Session': 1, 'Gemini Move': 'exd4', 'Rank': None, 'Score Difference': None}
+
+Game 9 - Sequence: d4 e5
+{'Game': 9, 'Session': 1, 'Gemini Move': 'exd4', 'Rank': None, 'Score Difference': None}
+
+Game 10 - Sequence: e4 b6
+{'Game': 10, 'Session': 1, 'Gemini Move': 'Bb7', 'Rank': None, 'Score Difference': None}
+
+Game 11 - Sequence: e4 Nc6
+{'Game': 22, 'Session': 1, 'Gemini Move': 'Nf6', 'Rank': None, 'Score Difference': None}
+
+Game 12 - Sequence: a4
+{'Game': 12, 'Session': 1, 'Gemini Move': 'e5', 'Rank': 9, 'Score Difference': -26}
+
+Game 13 - Sequence: e4 e5 Ke2
+{'Game': 13, 'Session': 1, 'Gemini Move': 'Qh4', 'Rank': None, 'Score Difference': None}
+
+Game 14 - Sequence: e4 a6
+{'Game': 14, 'Session': 1, 'Gemini Move': 'Nf6', 'Rank': None, 'Score Difference': None}
+
+Game 15 - Sequence: h4
+{'Game': 16, 'Session': 1, 'Gemini Move': 'e5', 'Rank': 41, 'Score Difference': -18}
+
+Game 16 - Sequence: e4 e5 Nf3 f6
+{'Game': 17, 'Session': 1, 'Gemini Move': 'Nc6', 'Rank': None, 'Score Difference': None}
+
+Game 17 - Sequence: e4 e5 Nf3 Nc6 Nxe5
+{'Game': 18, 'Session': 1, 'Gemini Move': 'Nxe5', 'Rank': 1, 'Score Difference': 0}
+
+Game 18 - Sequence: e4 b6 d4 g6 Nf3 Bg7
+{'Game': 19, 'Session': 1, 'Gemini Move': 'Bb7', 'Rank': None, 'Score Difference': None}
+
+Game 19 - Sequence: e4 e6 d4 d5 Nd2 h6
+{'Game': 20, 'Session': 1, 'Gemini Move': 'Nf6', 'Rank': None, 'Score Difference': None}
+
+Game 20 - Sequence: g3
+{'Game': 21, 'Session': 1, 'Gemini Move': 'd5', 'Rank': 1, 'Score Difference': 0}
+
+Game 21 - Sequence: e4 g6 Bc4 Bg7 Qf3
+{'Game': 23, 'Session': 1, 'Gemini Move': 'Nc6', 'Rank': None, 'Score Difference': None}
+
+Game 22 - Sequence: e4 e5 Nf3 Nc6 Bc4 Bc5 Bxf7+
+{'Game': 24, 'Session': 1, 'Gemini Move': 'Kxf7', 'Rank': 1, 'Score Difference': 0}
+
+Game 23 - Sequence: e4 e5 Nf3 Nc6 Nc3 Nf6 Nxe5
+{'Game': 25, 'Session': 1, 'Gemini Move': 'Nxe5', 'Rank': 1, 'Score Difference': 0}
+
+Game 24 - Sequence: e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d6
+{'Game': 26, 'Session': 1, 'Gemini Move': 'Be7', 'Rank': None, 'Score Difference': None}
+
+Game 25 - Sequence: e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4
+{'Game': 27, 'Session': 1, 'Gemini Move': 'd6', 'Rank': None, 'Score Difference': None}
+
+Game 26 - Sequence: e4 e5 d4 exd4 c3 dxc3 bxc3 d5
+{'Game': 28, 'Session': 1, 'Gemini Move': 'Nf6', 'Rank': None, 'Score Difference': None}
+
+Game 27 - Sequence: e4 e5 Nf3 Nc6 Bb5 d6 d4 exd4
+{'Game': 29, 'Session': 1, 'Gemini Move': 'Nxd4', 'Rank': 1, 'Score Difference': 0}
+
+Game 28 - Sequence: e4 e5 Nf3 Nc6 d4 exd4 c3
+{'Game': 49, 'Session': 1, 'Gemini Move': 'dxc3', 'Rank': 9, 'Score Difference': -49}
+
+Game 29 - Sequence: e4 e5 Nf3 Nc6 Bb5 d6 d4
+{'Game': 42, 'Session': 1, 'Gemini Move': 'a6', 'Rank': None, 'Score Difference': None}
+
+Game 30 - Sequence: e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6
+{'Game': 32, 'Session': 1, 'Gemini Move': 'Be7', 'Rank': None, 'Score Difference': None}
+
+Game 31 - Sequence: e4 e5 Nf3 Nc6 Bb5 a6 Ba4 b5
+{'Game': 40, 'Session': 1, 'Gemini Move': 'Bb7', 'Rank': None, 'Score Difference': None}
+
+Game 32 - Sequence: e4 e5 Nf3 Nc6 Bb5 Nf6 O-O a6
+{'Game': 34, 'Session': 1, 'Gemini Move': 'Be7', 'Rank': None, 'Score Difference': None}
+
+Game 33 - Sequence: e4 e5 Nf3 Nc6 Bb5 a6 Ba4 d5
+{'Game': 35, 'Session': 1, 'Gemini Move': 'Nf6', 'Rank': None, 'Score Difference': None}
+
+Game 34 - Sequence: e4 e5 d4 exd4 c3
+{'Game': 37, 'Session': 1, 'Gemini Move': 'dxc3', 'Rank': 7, 'Score Difference': -41}
+
+Game 35 - Sequence: e4 e5 Nf3 Nc6 d4 exd4
+{'Game': 39, 'Session': 1, 'Gemini Move': 'Nxd4', 'Rank': 1, 'Score Difference': 0}
+
+Game 36 - Sequence: e4 e5 Nf3 Nc6 Bb5 d6
+{'Game': 41, 'Session': 1, 'Gemini Move': 'a6', 'Rank': None, 'Score Difference': None}
+
+Game 37 - Sequence: e4 e5 Nf3 Nc6 Bb5 a6
+{'Game': 43, 'Session': 1, 'Gemini Move': 'Ba7', 'Rank': None, 'Score Difference': None}
+
+Game 38 - Sequence: e4 e5 Nf3 Nc6 Bb5 a6 Ba4
+{'Game': 46, 'Session': 1, 'Gemini Move': 'Nf6', 'Rank': 3, 'Score Difference': 0}
+
+Game 39 - Sequence: e4 e5 Nf3 Nc6 Bb5 Nf6
+{'Game': 45, 'Session': 1, 'Gemini Move': 'a6', 'Rank': None, 'Score Difference': None}
+
+Game 40 - Sequence: g3 d5 Bg2 c6
+{'Game': 47, 'Session': 1, 'Gemini Move': 'Nf6', 'Rank': None, 'Score Difference': None}
+
+Game 41 - Sequence: e4 e5 Nf3 Nc6 Bb5 a6 d4
+{'Game': 48, 'Session': 1, 'Gemini Move': 'Be7', 'Rank': None, 'Score Difference': None}
+
+Game 42 - Sequence: e4 c5 f4
+{'Game': 50, 'Session': 1, 'Gemini Move': 'Nc6', 'Rank': 2, 'Score Difference': -10}
+
